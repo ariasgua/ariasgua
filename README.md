@@ -238,10 +238,20 @@ flowchart LR
       <td align="center">Deployed Wazuh agents across Linux and Windows for centralized monitoring with a <strong>5+ member SOC team</strong> across Central America.</td>
     </tr>
     <tr>
-      <td align="center"><strong>Super Computing In Pocket</strong> · USC Viterbi<br><sub>Los Angeles, CA · Sep 2024–May 2025</sub></td>
-      <td align="center">Research Assistant</td>
-      <td align="center">Benchmarked hardware-aware LLM quantization on constrained GPUs, measuring compute, memory, latency, and accuracy tradeoffs.</td>
-    </tr>
+      <td align="center">
+      <strong>Super Computing In Pocket</strong> · USC Viterbi<br>
+      <sub>Los Angeles, CA · Sep 2024–May 2025</sub>
+    </td>
+    <td align="center">
+    Research Assistant<br>
+    <a href="https://viterbiundergrad.usc.edu/research/curve/">USC CURVE Program</a>
+  </td>
+  <td align="center">
+    As a CURVE undergraduate researcher, benchmarked hardware-aware LLM quantization
+    on constrained GPUs, measuring compute, memory, latency, and accuracy tradeoffs.
+  </td>
+</tr>
+  
     <tr>
       <td align="center"><strong>USC Information Technology Services</strong><br><sub>Los Angeles, CA · Jan 2025–Present</sub></td>
       <td align="center">Lab Technician</td>
