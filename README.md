@@ -152,7 +152,7 @@ flowchart LR
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3><a href="projects/sunshine-sleep-mask.md">🌅 Sunshine Sleep Mask</a></h3>
+      <h3><a href="https://github.com/uscmakers/SunshineSleepMask">🌅 Sunshine Sleep Mask</a></h3>
       <sub><code>ESP32</code> <code>KiCad</code> <code>C++</code> <code>I2S</code> <code>LiPo</code> <code>APA102</code></sub>
       <p>A wearable embedded system combining adaptive illumination, audio feedback, real-time sensing, and ML-informed behavior from physiological sleep data.</p>
       <p>Custom multilayer PCB around an <b>ESP32-WROOM-32</b> with LiPo charging/protection, DC-DC regulation, a MAX98357A audio amp, and APA102 LEDs. Validated through soldering, bring-up, bench measurements, and a companion React interface.</p>
