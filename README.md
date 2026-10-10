@@ -85,13 +85,13 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>🌅 Sunshine Sleep Mask</h3>
+      <h3><a href="projects/sunshine-sleep-mask.md">🌅 Sunshine Sleep Mask</a></h3>
       <p><code>ESP32</code> <code>KiCad</code> <code>C++</code> <code>I2S</code> <code>LiPo</code> <code>APA102</code></p>
       <p>Developing a wearable embedded system that combines adaptive illumination, audio feedback, real-time sensing, and ML-informed behavior derived from physiological sleep data.</p>
       <p>Engineering a custom multilayer PCB around an ESP32-WROOM-32 with LiPo charging and protection, DC-DC regulation, a MAX98357A audio amplifier, APA102 LEDs, and peripheral interfaces; validating it through soldering, board bring-up, bench measurements, and a companion React interface.</p>
     </td>
     <td width="50%" align="center" valign="top">
-      <h3>🎮 Flappy Bird FPGA</h3>
+      <h3><a href="projects/flappy-bird-fpga.md">🎮 Flappy Bird FPGA</a></h3>
       <p><code>Verilog</code> <code>RTL</code> <code>FSMs</code> <code>VGA</code> <code>QuestaSim</code></p>
       <p>Designing a real-time FPGA game in modular Verilog RTL with FSM-based control, VGA rendering, player movement, obstacle generation, collision detection, and scoring.</p>
       <p>Building synchronous counters, clock dividers, and debounced inputs, then verifying resets, state transitions, collision boundaries, and timing with directed testbenches and waveform analysis before deployment.</p>
@@ -99,13 +99,13 @@
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>🎸 Custom Electric Guitar PCB</h3>
+      <h3><a href="projects/electric-guitar-pcb.md">🎸 Custom Electric Guitar PCB</a></h3>
       <p><code>LM324</code> <code>Analog Circuits</code> <code>PCB</code> <code>SMD</code></p>
       <p>Designed a custom analog guitar-effects circuit with LM324 amplification, filtering, signal conditioning, and interactive LEDs to improve signal integrity in a guitar-shaped system.</p>
       <p>Translated schematics into working hardware through PCB assembly, through-hole and SMD soldering, measurement, fault isolation, and iterative debugging.</p>
     </td>
     <td width="50%" align="center" valign="top">
-      <h3>🌡️ AVR Temperature Controller</h3>
+      <h3><a href="projects/avr-temperature-controller.md">🌡️ AVR Temperature Controller</a></h3>
       <p><code>AVR</code> <code>FSMs</code> <code>PWM</code> <code>Interrupts</code> <code>EEPROM</code></p>
       <p>Built real-time control firmware using FSMs, timers, interrupts, and PWM, integrating temperature sensing, EEPROM storage, LCD output, rotary-encoder input, and configurable threshold control.</p>
       <p>Validated timing, PWM, and hardware behavior through iterative oscilloscope and multimeter measurements.</p>
@@ -113,7 +113,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center" valign="top">
-      <h3>👶 Baby Cry Monitoring System</h3>
+      <h3><a href="https://github.com/ariasgua/Cry_babies_monitor">👶 Baby Cry Monitoring System</a></h3>
       <p><code>Raspberry Pi</code> <code>Python</code> <code>MQTT</code> <code>NumPy</code> <code>SciPy</code> <code>FFT</code></p>
       <p>Built a multi-node IoT monitoring system with an FFT pipeline across the <strong>300–3000 Hz</strong> voice band and a <strong>0.70 detection threshold</strong>, distinguishing infant cries from ambient noise and pure-tone beeps.</p>
     </td>
