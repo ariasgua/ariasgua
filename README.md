@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:193b3a,100:f0b56b&section=header&text=Paula%20Arias&fontSize=60&fontColor=f0b56b&fontAlignY=36&desc=Electrical%20and%20Computer%20Engineering%20%40%20USC&descSize=18&descColor=ffffff&descAlignY=58&animation=fadeIn" width="100%" alt="Paula Arias header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:990000,100:CC0000&section=header&text=Paula%20Arias&fontSize=60&fontColor=FFCC00&fontAlignY=36&desc=Electrical%20and%20Computer%20Engineering%20%40%20USC&descSize=18&descColor=FFFFFF&descAlignY=58&animation=fadeIn" width="100%" alt="Paula Arias header" />
 
 
 
@@ -317,6 +317,6 @@ flowchart LR
 
 <sub><b>Design · Simulate · Build · Measure · Debug · Iterate</b></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:193b3a,100:f0b56b&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:990000,100:f0b56b&section=footer" width="100%" alt="footer" />
 
 </div>
